@@ -1,5 +1,8 @@
 # dictionary_methods_demo.py
 # Demonstration of common Python dictionary methods and operations
+# This for revision
+# Must remember all the functions
+
 
 # -----------------------------
 # Dictionary creation
